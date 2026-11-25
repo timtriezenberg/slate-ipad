@@ -1,2 +1,1 @@
-# slate-ipad
-Slate Budget for iPad (app code only; budgets live in a private repo)
+Slate Budget for iPad. App code only; budgets are stored in a private repository and need your own token.
